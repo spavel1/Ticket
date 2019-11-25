@@ -9,7 +9,7 @@ cd /etc | firefox -version
 cd ~
 
 #install dependency
-sudo apt-get install libgtk2.0-0
+sudo apt-get install libgtk2.0-0 -y
 
 #download 45.7.0esr version of Firefox
 wget https://ftp.mozilla.org/pub/firefox/releases/45.7.0esr/firefox-45.7.0esr.linux-x86_64.sdk.tar.bz2
